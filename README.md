@@ -52,7 +52,7 @@ Stop Time 2023-03-16 17:04:29
 
 ## Attack Maps Before Hardening / Security Controls
 
-```All map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
+```After implementing the hardening measures, all map queries produced empty results, indicating the absence of any instances of malicious activity throughout the 24-hour period.```
 
 ## Metrics After Hardening / Security Controls
 
